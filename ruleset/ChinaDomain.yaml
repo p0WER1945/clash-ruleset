@@ -1,9 +1,7 @@
 payload:
   # 直连列表
   # 2026/03 ADD
-  - DOMAIN-SUFFIX,volces.com
-  - DOMAIN-SUFFIX,volccdn.com
-  - DOMAIN-SUFFIX,volcanicengine.com
+  - DOMAIN-KEYWORD,volc
 
   # MyList
   - DOMAIN-SUFFIX,13th.tech
