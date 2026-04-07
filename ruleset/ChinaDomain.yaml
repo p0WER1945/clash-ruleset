@@ -1,5 +1,9 @@
 payload:
   # 直连列表
+  # 2026/04 ADD
+  - DOMAIN-KEYWORD,kimi
+  - DOMAIN-KEYWORD,moonshot
+
   # 2026/03 ADD
   - DOMAIN-KEYWORD,volc
   - DOMAIN-KEYWORD,weixin
