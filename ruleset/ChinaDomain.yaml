@@ -3,6 +3,7 @@ payload:
   # 2026/04 ADD
   - DOMAIN-KEYWORD,kimi
   - DOMAIN-KEYWORD,moonshot
+  - DOMAIN-KEYWORD,variflight
 
   # 2026/03 ADD
   - DOMAIN-KEYWORD,volc
