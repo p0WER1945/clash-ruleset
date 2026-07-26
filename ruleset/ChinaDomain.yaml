@@ -1,5 +1,7 @@
 payload:
   # 直连列表
+  # 2026/07 ADD
+  - DOMAIN-KEYWORD,kmf.com
   # 2026/05 ADD
   - DOMAIN-KEYWORD,deepseek
   # 2026/04 ADD
