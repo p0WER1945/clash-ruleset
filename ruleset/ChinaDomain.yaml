@@ -1,7 +1,9 @@
 payload:
   # 直连列表
   # 2026/07 ADD
-  - DOMAIN-KEYWORD,kmf.com
+  - DOMAIN-KEYWORD,kmf
+  - DOMAIN-KEYWORD,KMF
+  - DOMAIN-KEYWORD,talbrain
   # 2026/05 ADD
   - DOMAIN-KEYWORD,deepseek
   # 2026/04 ADD
