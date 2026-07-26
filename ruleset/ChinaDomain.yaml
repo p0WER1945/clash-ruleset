@@ -1,8 +1,16 @@
 payload:
   # 直连列表
   # 2026/07 ADD
+  - DOMAIN-SUFFIX,kmf.com
   - DOMAIN-KEYWORD,kmf
   - DOMAIN-KEYWORD,KMF
+  - DOMAIN-SUFFIX,xueersi.com
+  - DOMAIN-SUFFIX,xesimg.com
+  - DOMAIN-SUFFIX,100tal.com
+  - DOMAIN-SUFFIX,tal.com
+  - DOMAIN-SUFFIX,talbrain.com
+  - DOMAIN-KEYWORD,xueersi
+  - DOMAIN-KEYWORD,xesimg
   - DOMAIN-KEYWORD,talbrain
   # 2026/05 ADD
   - DOMAIN-KEYWORD,deepseek
