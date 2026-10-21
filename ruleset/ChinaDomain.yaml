@@ -1,5 +1,16 @@
 payload:
   # 直连列表
+  # 2026/10 ADD - Bank
+  - DOMAIN-SUFFIX,boc.cn
+  - DOMAIN-SUFFIX,ccb.com
+  - DOMAIN-SUFFIX,abchina.com.cn
+  - DOMAIN-SUFFIX,cmbchina.com
+  - DOMAIN-SUFFIX,icbc.com.cn
+  - DOMAIN-SUFFIX,cgbchina.com.cn
+  - DOMAIN-SUFFIX,pingan.com
+  - DOMAIN-SUFFIX,cib.com.cn
+  - DOMAIN-SUFFIX,spdb.com.cn
+  - DOMAIN-SUFFIX,cmbc.com.cn
   # 2026/07 ADD
   - DOMAIN-SUFFIX,kmf.com
   - DOMAIN-KEYWORD,kmf
