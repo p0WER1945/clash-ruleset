@@ -1,6 +1,8 @@
 payload:
   # 直连列表
-  # 2026/10 ADD - Bank
+  # 2026/10 ADD - Bank, wx
+  - DOMAIN-SUFFIX,meiguanjia
+  - DOMAIN-SUFFIX,wxgateway
   - DOMAIN-SUFFIX,boc.cn
   - DOMAIN-SUFFIX,ccb.com
   - DOMAIN-SUFFIX,abchina.com.cn
