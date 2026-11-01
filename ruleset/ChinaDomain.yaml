@@ -2,6 +2,7 @@ payload:
   # 直连列表
   # 2026/11 Add - aki
   - DOMAIN-SUFFIX,aki-game.com
+  - DOMAIN-SUFFIX,kurogame.xyz
   # 2026/10 ADD - Bank, wx
   - DOMAIN-SUFFIX,meiguanjia.net
   - DOMAIN-SUFFIX,wxgateway.com
